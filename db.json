@@ -1,27 +1,40 @@
 {
-  "ssds": [
+  "hdds": [
     {
       "id": 1,
-      "name": "ssd",
-      "brand": "TEAM T-FORCE",
-      "model": "VULCAN G 512GB",
-      "thumbnail": "https://computerage.lk/wp-content/uploads/2021/01/Untitled-1-5.png",
+      "name": "hdds",
+      "brand": "seagate",
+      "model": "BarraCuda 5Tb",
+      "thumbnail": "https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/images/barracuda-2-5-5tb-front-lo-res-new.png",
       "large": "",
       "images": [
-        "https://computerage.lk/wp-content/uploads/2021/01/Untitled-1-5.png"
+        "https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/images/barracuda-2-5-5tb-front-lo-res-new.png"
       ],
       "price": 190,
       "energy": 100
     },
     {
       "id": 2,
-      "name": "ssd",
-      "brand": "WD GREEN",
-      "model": "240GB SSD",
-      "thumbnail": "https://computerage.lk/wp-content/uploads/2021/01/Untitled-1-4.png",
+      "name": "hdds",
+      "brand": "seagate",
+      "model": "BarraCuda 8Tb",
+      "thumbnail": "https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/images/barracuda-3-5-8tb-front-lo-res.png",
       "large": "",
       "images": [
-        "https://computerage.lk/wp-content/uploads/2021/01/Untitled-1-4.png"
+        "https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/images/barracuda-3-5-8tb-front-lo-res.png"
+      ],
+      "price": 180,
+      "energy": 100
+    },
+    {
+      "id": 3,
+      "name": "hdds",
+      "brand": "seagate",
+      "model": "BarraCuda 14Tb",
+      "thumbnail": "https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/images/barracuda-pro-3-5-14tb-front-lo-res.png",
+      "large": "",
+      "images": [
+        "https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/images/barracuda-pro-3-5-14tb-front-lo-res.png"
       ],
       "price": 180,
       "energy": 100
